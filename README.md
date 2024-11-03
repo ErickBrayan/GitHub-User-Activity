@@ -34,4 +34,4 @@ This is a simple command-line interface (CLI) application for show user's recent
 java -jar target/GitHub-User-Activity-0.1.jar kamranahmedse
 
 ```
-https://roadmap.sh/projects/task-tracker
+https://roadmap.sh/projects/github-user-activity
