@@ -11,15 +11,19 @@ This is a simple command-line interface (CLI) application for show user's recent
    ```bash
    git clone https://github.com/ErickBrayan/GitHub-User-Activity.git
 
-2. **Compile the source code:**
+2. **Change Directory:**
+   ```bash
+   cd GitHub-User-Activity
+
+3. **Compile the source code:**
    ```bash
    mvn compile
 
-3. **Package the source code:**
+4. **Package the source code:**
     ```bash
    mvn package
    
-4. **Run the application:**
+5. **Run the application:**
     ```bash
    java -jar target/GitHub-User-Activity-0.1.jar [arguments]
    ```
